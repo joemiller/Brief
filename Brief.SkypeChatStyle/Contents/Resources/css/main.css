@@ -149,7 +149,7 @@ img.right {
 /* @group Default Font */
 body {
   font: 62.5%/20px sans-serif;
-  color: #222; }
+  color: #111; }
 
 /* Resetting the body font for no current reason whatsoever. Let's put it towards 'peace of mind' */
 input, textarea, button, select {
@@ -275,7 +275,7 @@ br {
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
-  line-height: 20px;
+  line-height: 15px;
   color: #222222; }
 
 a, a:link, a:visited, a:hover {
@@ -296,7 +296,7 @@ a, a:link, a:visited, a:hover {
   font-weight: bold; }
 
 p {
-  margin: 0 0 10px; }
+  margin: 0 0 7px; }
 
 .item .sender {
   font-weight: bold; }
@@ -538,7 +538,7 @@ body {
   -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.8) inset; }
   .item .container {
     position: relative;
-    padding: 9px 10px; }
+    padding: 6px 9px; }
     .item .container:before, .item .container:after {
       content: "";
       display: block;
@@ -576,7 +576,7 @@ body {
   margin-bottom: -1px; }
 
 .out {
-  background: #f3f3f3; }
+  background: #E1E9E9; }  /* this is the color for messages we send */
 
 .deleted .container {
   opacity: 0.3; }
